@@ -1,0 +1,22 @@
+.menu__item-link {
+    text-decoration: none;
+    color: #4D4D4D;
+    font-size: 18px;
+    line-height: 100%;
+    position: relative;
+    transition: color .3s ease-in-out;
+    transition: padding-bottom 0.05s cubic-bezier(0.65, 0.05, 0.36, 1);
+}
+
+.menu__item-link:hover {
+   
+    padding-bottom: 5px;
+    border-bottom: 1px #b4b4b4 solid;
+}
+
+
+.menu__item-link:focus {
+    color: #00B2FF;
+    padding-bottom: 5px;
+    border-bottom: 2px #00B2FF solid;
+}

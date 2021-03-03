@@ -1,0 +1,25 @@
+.banner__button-link {
+    max-width: 277px;
+    min-height: 67px;
+    color: #fff;
+    background-color: #00B2FF;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+    transition: background-color .2s linear;
+}
+
+.banner__button-link:hover {
+    background-color: #005377;
+
+
+}
+
+.banner__button-link:focus {
+    background-color: #002a3b;
+    transition: background-color 0s linear;
+    color: rgb(255, 255, 255);
+}
+

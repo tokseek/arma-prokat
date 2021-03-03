@@ -4,4 +4,9 @@
     line-height: 100%;
     font-weight: 500;
     color: #636363;
+    transition: color .3s ease-out;
+}
+
+.header__number:hover {
+    color: #161616;
 }

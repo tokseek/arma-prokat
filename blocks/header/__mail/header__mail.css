@@ -1,0 +1,11 @@
+.header__mail {
+    text-decoration: none;
+    color: #A3A3A3;
+    transition: color .3s ease-out;
+    font-size: 14px;
+    line-height: 100%;
+}
+
+.header__mail:hover {
+    color: #4D4D4D;
+}

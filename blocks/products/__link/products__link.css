@@ -1,0 +1,8 @@
+.products__link {
+    text-decoration: none;
+    color: #A3A3A3;
+}
+
+.products__link:hover {
+    color: #484848;
+}

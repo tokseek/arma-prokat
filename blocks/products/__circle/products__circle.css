@@ -1,0 +1,9 @@
+.products__circle {
+        width: 14px;
+        height: 14px;
+        background-color: #00B2FF;
+        border-radius: 50%;
+
+        -moz-border-radius: 50px;
+	    -webkit-border-radius: 50px;
+}

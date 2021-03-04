@@ -1,0 +1,9 @@
+.products__cards {
+    max-width: calc(100% - 100px*2);
+    margin: 50px auto 38px;
+    padding: 0;
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 30px;
+}

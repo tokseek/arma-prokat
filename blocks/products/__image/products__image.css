@@ -1,0 +1,26 @@
+.products__image {
+    min-height: 200px;
+    display: flex;
+    position: relative;
+    filter: grayscale(1);
+    z-index: 1;
+    transition: .1s;
+}
+
+.products__image:before {
+    content: '';
+    background-color: #00000000;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+    transition: .2s;
+}
+.products__image:hover {
+    filter:unset;
+}
+.products__image:hover:before {
+    background-color: #00000030;
+}

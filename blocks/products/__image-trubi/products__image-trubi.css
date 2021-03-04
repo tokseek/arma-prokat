@@ -1,0 +1,4 @@
+.products__image-trubi {
+    background-image: url(./../../../images/trubi.jpg);
+    background-size: cover;
+}

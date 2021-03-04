@@ -1,0 +1,8 @@
+.product__text {
+    max-width: calc(100% - 12px*2);
+    margin: 32px auto 32px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 117%;
+    transition: .5s;
+}

@@ -1,0 +1,21 @@
+.ship-and-pay__content {
+    min-height: 364px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+    z-index: 1;
+}
+
+.ship-and-pay__content:before {
+    content: '';
+    background-color: rgb(0 0 0 / 24%);
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -1;
+
+}

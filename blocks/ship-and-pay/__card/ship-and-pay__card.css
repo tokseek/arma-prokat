@@ -1,0 +1,8 @@
+.ship-and-pay__card {
+    color: hsl(0deg 0% 100% / 50%);
+    transition: .3s;
+}
+
+.ship-and-pay__card:hover {
+    color: rgba(255, 255, 255, 0.877);
+}

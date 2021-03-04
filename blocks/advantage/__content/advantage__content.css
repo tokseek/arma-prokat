@@ -1,0 +1,6 @@
+.advantage__content {
+    background: url(./../../../images/advantage.jpg);
+    background-position: center;
+    background-size: cover;
+    min-height: 520px;
+}

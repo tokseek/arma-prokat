@@ -1,0 +1,11 @@
+.ship-and-pay__card-title {
+    margin: 0 auto;
+    margin-top: 150px;
+    max-width: 380px;
+    text-align: center;
+    font-size: 36px;
+    line-height: 100%;
+    font-weight: normal;
+    color: #fff;
+    text-transform: uppercase;
+}

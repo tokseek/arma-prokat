@@ -45,3 +45,18 @@
 @import url(../blocks/products/__image-ugolok/products__image-ugolok.css);
 @import url(../blocks/products/__image-trubi/products__image-trubi.css);
 @import url(../blocks/products/__image-profnastil/products__image-profnastil.css);
+
+@import url(../blocks/ship-and-pay/__title/ship-and-pay__title.css);
+@import url(../blocks/ship-and-pay/__content/ship-and-pay__content.css);
+@import url(../blocks/ship-and-pay/__card/ship-and-pay__card.css);
+@import url(../blocks/ship-and-pay/__cards/ship-and-pay__cards.css);
+@import url(../blocks/ship-and-pay/__points/ship-and-pay__points.css);
+@import url(../blocks/ship-and-pay/__card-title/ship-and-pay__card-title.css);
+@import url(../blocks/ship-and-pay/__content-pay/ship-and-pay__content-pay.css);
+@import url(../blocks/ship-and-pay/__content-ship/ship-and-pay__content-ship.css);
+@import url(../blocks/ship-and-pay/__info/ship-and-pay__info.css);
+@import url(../blocks/ship-and-pay/__circle/ship-and-pay__circle.css);
+@import url(../blocks/ship-and-pay/__info-text/ship-and-pay__info-text.css);
+
+@import url(../blocks/advantage/advantage.css);
+@import url(../blocks/advantage/__content/advantage__content.css);

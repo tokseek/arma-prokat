@@ -1,0 +1,9 @@
+.ship-and-pay__info {
+    margin: 15px 0px 0px;
+    font-size: 14px;
+    line-height: 100%;
+    color: #4D4D4D;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}

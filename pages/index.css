@@ -59,4 +59,30 @@
 @import url(../blocks/ship-and-pay/__info-text/ship-and-pay__info-text.css);
 
 @import url(../blocks/advantage/advantage.css);
+@import url(../blocks/advantage/__title/advantage__title.css);
+@import url(../blocks/advantage/__background/advantage__background.css);
 @import url(../blocks/advantage/__content/advantage__content.css);
+@import url(../blocks/advantage/__items/advantage__items.css);
+@import url(../blocks/advantage/__item/advantage__item.css);
+@import url(../blocks/advantage/__name/advantage__name.css);
+
+@import url(../blocks/description/description.css);
+@import url(../blocks/description/__title/description__title.css);
+@import url(../blocks/description/__content/description__content.css);
+
+@import url(../blocks/description/__paragraph/description__paragraph.css);
+
+@import url(../blocks/description/__advantage-title/description__advantage-title.css);
+@import url(../blocks/description/__advantage-items/description__advantage-items.css);
+@import url(../blocks/description/__advantage-item/description__advantage-item.css);
+@import url(../blocks/description/__advantage-item-text/description__advantage-item-text.css);
+@import url(../blocks/description/__advantage-item-text-bold/description__advantage-item-text-bold.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__columns/footer__columns.css);
+
+/* Подумать */
+@import url(../blocks/footer/_column/footer__column.css);
+
+@import url(../blocks/footer/__connect/footer__connect.css);
+@import url(../blocks/footer/__address-wortime/footer__address-worktime.css);

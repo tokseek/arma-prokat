@@ -1,0 +1,9 @@
+.advantage__items {
+    max-width: calc(100% - 100px*2);
+    margin: 30px auto;
+    list-style: none;
+    padding: 0;
+    display: grid;
+    gap: 35px;
+    grid-template-columns: 1fr 1fr;
+}

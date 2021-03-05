@@ -1,0 +1,11 @@
+.description__paragraph {
+    margin: 0;
+    margin-bottom: 30px;
+    font-size: 18px;
+    color: #676767;
+    text-align: justify;
+}
+
+.description__paragraph:last-child {
+    margin-bottom: 0;
+}

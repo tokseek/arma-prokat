@@ -1,0 +1,7 @@
+.description__content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+    max-width: calc(100% - 20px*2);
+    margin: 50px auto 30px;
+}

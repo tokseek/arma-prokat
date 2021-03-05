@@ -1,0 +1,9 @@
+.advantage__background {
+    background: url(./../../../images/advantage.jpg);
+    background-position: center;
+    background-size: cover;
+    min-height: 520px;
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+}

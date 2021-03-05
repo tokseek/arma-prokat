@@ -1,0 +1,8 @@
+.footer__copyrights {
+    text-align: center;
+    color: #808080;
+    font-size: 12px;
+    max-width: calc(100% - 100px*2);
+    margin: 0 auto;
+    padding-bottom: 10px;
+}

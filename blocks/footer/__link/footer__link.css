@@ -1,0 +1,11 @@
+.footer__link {
+    text-decoration: none;
+    color: #b7b7b7;
+    font-size: 18px;
+    display: flex;
+    transition: .3s;
+}
+
+.footer__link:hover {
+    color: #fff;
+}

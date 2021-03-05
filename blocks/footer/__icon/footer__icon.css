@@ -1,0 +1,10 @@
+svg path {
+    fill:inherit;
+    stroke:inherit;
+    stroke-width:inherit;
+    }
+
+.footer__icon:hover {
+    fill: #ADFF00;
+
+}

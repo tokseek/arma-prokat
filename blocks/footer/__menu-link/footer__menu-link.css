@@ -1,0 +1,10 @@
+.footer__menu-link {
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    transition: .3s;
+}
+
+.footer__menu-link:hover {
+    color: #ADFF00;
+}

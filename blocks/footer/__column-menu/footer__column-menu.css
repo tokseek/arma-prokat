@@ -1,0 +1,4 @@
+.footer__column-menu {
+    display: grid;
+    align-items: end;
+}

@@ -1,0 +1,9 @@
+.footer__copyrights-link {
+    text-decoration: none;
+    color: #00B2FF;
+    transition: .3s;
+}
+
+.footer__copyrights-link:hover {
+    color: #fff;
+}

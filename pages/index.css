@@ -82,7 +82,26 @@
 @import url(../blocks/footer/__columns/footer__columns.css);
 
 /* Подумать */
-@import url(../blocks/footer/_column/footer__column.css);
+@import url(../blocks/footer/__column/footer__column.css);
 
+@import url(../blocks/logo/_place/logo_place_footer.css);
 @import url(../blocks/footer/__connect/footer__connect.css);
-@import url(../blocks/footer/__address-wortime/footer__address-worktime.css);
+@import url(../blocks/footer/__address-worktime/footer__address-worktime.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__link-bottom/footer__link-bottom.css);
+@import url(../blocks/footer/__work-time/footer__work-time.css);
+@import url(../blocks/footer/__req-icon/footer__req-icon.css);
+@import url(../blocks/footer/__requisites/footer__requisites.css);
+
+@import url(../blocks/footer/__column-menu/footer__column-menu.css);
+@import url(../blocks/footer/__menu-items/footer__menu-items.css);
+@import url(../blocks/footer/__menu-link/footer__menu-link.css);
+@import url(../blocks/footer/__social/footer__social.css);
+@import url(../blocks/footer/__social-link/footer__social-link.css);
+@import url(../blocks/footer/__column-social/footer__column-social.css);
+
+@import url(../blocks/footer/__icon/footer__icon.css);
+
+@import url(../blocks/footer/__copyrights/footer__copyrights.css);
+@import url(../blocks/footer/__copyrights-info/footer__copyrights-info.css);
+@import url(../blocks/footer/__copyrights-link/footer__copyrights-link.css);
